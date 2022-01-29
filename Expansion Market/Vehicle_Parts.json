@@ -1,0 +1,18 @@
+{
+    "m_Version": 7,
+    "TraderName": "Vehicle_Parts",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS",
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Vehicle_Parts",
+		"Mustang_Parts",
+		"CMZ_Supercars_Parts"
+    ],
+    "Items": {}
+}
