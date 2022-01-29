@@ -1,0 +1,23 @@
+{
+    "VehicleName": "Crsk_Mercedes_G65_AMG_13_LMZ",
+    "DisplayName": "Crsk_Mercedes_G65_AMG_13_LMZ_Police",
+    "Parts": [
+        "G65AMG13_koleso",
+        "G65AMG13_koleso",
+        "G65AMG13_koleso",
+        "G65AMG13_koleso",
+        "G65AMG13_koleso",
+        "HeadlightH7",
+        "HeadlightH7",
+        "G65AMG13_dver_1_1_police",
+        "G65AMG13_dver_2_1_police",
+        "G65AMG13_dver_1_2",
+        "G65AMG13_dver_2_2",
+        "G65AMG13_kapot_police",
+        "G65AMG13_bagazhnik",
+        "CanisterGasoline",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}
