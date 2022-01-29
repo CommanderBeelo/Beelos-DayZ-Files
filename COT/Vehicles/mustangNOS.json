@@ -1,0 +1,27 @@
+{
+    "VehicleName": "mustangNOS",
+    "DisplayName": "",
+    "Parts": [
+        "mustangwheel",
+        "mustangwheel",
+        "mustangwheel",
+        "mustangwheel",
+        "mustangwheel",
+        "mustangwheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "EngineBelt",
+        "mustangDoors_Driver",
+        "mustangDoors_coDriver",
+        "JerryCanRed",
+        "GreenOilCan",
+        "StorageBoxM",
+        "toolboxm",
+        "GunCaseM",
+        "ShovelM",
+        "CanisterGasoline",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}
