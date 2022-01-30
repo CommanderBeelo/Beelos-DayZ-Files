@@ -9,7 +9,7 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
+   	</type>
 	<type name="mustangnos">
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
