@@ -1,0 +1,5 @@
+	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
+	<ce folder="DBO_Mustangs_CE">
+		<file name="DBO_Mustangs_Types.xml" type="types" />
+		<file name="DBO_Mustangs_Spawnabletypes.xml" type="spawnabletypes" />
+	</ce>

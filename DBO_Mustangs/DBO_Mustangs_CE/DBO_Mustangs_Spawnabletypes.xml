@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="mustang">
+		<attachments chance="0.70">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.90">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EngineBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangDoors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="mustangDoors_coDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="JerryCanRed" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="GreenOilCan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="StorageBoxM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="toolboxm" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="GunCaseM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="ShovelM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="mustangNOS">
+		<attachments chance="0.70">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangwheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.90">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EngineBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="mustangDoors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="mustangDoors_coDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="JerryCanRed" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="GreenOilCan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="StorageBoxM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="toolboxm" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="GunCaseM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="ShovelM" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

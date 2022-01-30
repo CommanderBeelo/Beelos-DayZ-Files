@@ -1,0 +1,4 @@
+<Trader> Vehicles Trader
+	<Category> Vehicles
+		mustang,		V,	330000,	20000
+		mustangNOS,		V,	530000,	40000		
