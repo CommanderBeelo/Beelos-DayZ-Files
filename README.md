@@ -1,5 +1,5 @@
 Beelo's Dayz Files
-Collection of mod related files pertaining to DayZ. Shout out to Deano and the Expansion mod team for putting up with me.
+Collection of mod related files (types, trader configs, cot spawn menu files, etc) pertaining to DayZ. Shout out to Deano and the Expansion mod team for putting up with me.
 
 My DayZ Server is "The Horror at Namalsk"
 
