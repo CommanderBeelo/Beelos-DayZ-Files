@@ -1,0 +1,24 @@
+{
+    "VehicleName": "vg7_corvette_blue",
+    "DisplayName": "",
+    "Parts": [
+        "vg7_wheel",
+        "vg7_wheel",
+        "vg7_wheel",
+        "vg7_wheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "vg7_L_Door_Blue",
+        "vg7_R_Door_Blue",
+        "vg7_L_Cargo_Door_Blue",
+        "vg7_R_Cargo_Door_Blue",
+        "vg7_H_Door_Blue",
+        "vg7_Roof_Rack_2",
+        "PowerGenerator",
+        "CanisterGasoline",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

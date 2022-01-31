@@ -1,0 +1,4 @@
+	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
+	<ce folder="BlackoutsCorvette_CE">
+		<file name="BlackoutsCorvette_Types.xml" type="types" />
+	</ce>

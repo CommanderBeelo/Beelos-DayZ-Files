@@ -1,0 +1,5 @@
+	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
+	<ce folder="SavageSherpa_CE">
+		<file name="SavageSherpas_Types.xml" type="types" />
+		<file name="SavageSherpas_Cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
