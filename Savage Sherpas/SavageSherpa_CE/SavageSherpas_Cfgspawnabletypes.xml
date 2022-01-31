@@ -1,0 +1,342 @@
+<!-- SavageSherpa Start -->
+	<type name="SavageSherpa_yellow">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_red">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_purple">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_mint">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_green">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_brown">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_blue">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_pink">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_black">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_savage">
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SavageSNO_RearBag" chance="0.10" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_yellow">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_red">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_purple">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_mint">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_green">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_brown">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_blue">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_pink">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_black">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<type name="SavageSherpa_sport_savage">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.15" />
+        </attachments>
+	</type>
+	<!-- SavageSherpa End -->
