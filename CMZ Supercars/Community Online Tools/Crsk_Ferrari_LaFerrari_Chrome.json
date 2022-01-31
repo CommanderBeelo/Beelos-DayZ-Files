@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Crsk_Ferrari_LaFerrari_Chrome",
+    "DisplayName": "",
+    "Parts": [
+        "FLaFerrari_koleso",
+        "FLaFerrari_koleso",
+        "FLaFerrari_koleso",
+        "FLaFerrari_koleso",
+        "FLaFerrari_koleso",
+        "HeadlightH7",
+        "HeadlightH7",
+        "FLaFerrari_dver_1_1_chrome",
+        "FLaFerrari_dver_2_1_chrome",
+        "FLaFerrari_kapot_chrome",
+        "FLaFerrari_bagazhnik_chrome",
+        "CanisterGasoline",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

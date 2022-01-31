@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="CrSk_Lamborghini_Veneno">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+        <type name="CrSk_McLaren_720S">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CrSk_McLaren_720S_Gold">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="CrSk_McLaren_720S_Chrome">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="CrSk_McLaren_720S_Pink">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Pagani_Huayra">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Pagani_Huayra_Pink">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Pagani_Huayra_Gold">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Pagani_Huayra_Chrome">
+    <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Ferrari_LaFerrari">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+		<type name="Crsk_Ferrari_LaFerrari_Pink">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Ferrari_LaFerrari_Gold">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Ferrari_LaFerrari_Chrome">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_green">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_green1">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_green2">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_pink">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_white">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_white2">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Crsk_Mercedes_G65_AMG_13_LMZ_white3">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" 
+        count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	
+	
+</types>
