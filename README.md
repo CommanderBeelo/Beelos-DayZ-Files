@@ -15,10 +15,11 @@ DBo_ATV : https://steamcommunity.com/sharedfiles/filedetails/?id=2056895759
 
 Expansion Bundle : https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007
 
-CMZ Supercar : https://steamcommunity.com/sharedfiles/filedetails/?id=1993034717
-
 Expansion Discord for all things Expansion : https://discord.gg/jvqw5yS
 
 Expansion Wiki : https://github.com/salutesh/DayZ-Expansion-Scripts/wiki
+
+CMZ Supercar : https://steamcommunity.com/sharedfiles/filedetails/?id=1993034717
+
 
 The Horror at Namalsk (my server) : https://Discord.gg/hFGBHtyZJj
