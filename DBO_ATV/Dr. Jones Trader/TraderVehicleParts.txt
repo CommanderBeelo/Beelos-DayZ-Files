@@ -1,0 +1,12 @@
+<VehicleParts> mustang		
+	SparkPlug						
+	CarBattery						
+	CarRadiator						
+	HeadlightH7						
+	HeadlightH7						
+	atv_wheel					
+	atv_wheel					
+	atv_wheel
+	atv_wheel
+
+	

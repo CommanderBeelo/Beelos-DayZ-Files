@@ -1,0 +1,5 @@
+	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
+	<ce folder="DBO_ATV_CE">
+		<file name="DBO_ATV_Types.xml" type="types" />
+		<file name="DBO_ATV_Spawnabletypes.xml" type="spawnabletypes" />
+	</ce>

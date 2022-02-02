@@ -1,0 +1,3 @@
+<Trader> Vehicles Trader
+	<Category> Deanos ATV
+		dbo_atv,		V,	330000,	20000	

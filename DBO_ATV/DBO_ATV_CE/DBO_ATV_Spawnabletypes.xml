@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="dbo_atv">
+		<attachments chance="0.70">
+			<item name="atv_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="atv_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="atv_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.80">
+			<item name="atv_wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="0.90">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="0.70">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

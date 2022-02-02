@@ -1,0 +1,15 @@
+{
+    "VehicleName": "dbo_atv",
+    "DisplayName": "",
+    "Parts": [
+        "atv_wheel",
+        "atv_wheel",
+        "atv_wheel",
+        "atv_wheel",
+        "HeadlightH7",
+        "HeadlightH7",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}
