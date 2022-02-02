@@ -3,7 +3,9 @@ Collection of mod related files (types, trader configs, cot spawn menu files, et
 
 My DayZ Server is "The Horror at Namalsk"
 
-Expansion Bundle : https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007
+Deano's Discord - Great Source of Information : https://discord.gg/vSDP3qz
+
+Deano's Twitch Modding Vids : https://www.twitch.tv/dbo_dayz_tutorials
 
 DBO_Mustangs : https://steamcommunity.com/sharedfiles/filedetails/?id=1739823745
 
@@ -11,11 +13,11 @@ DBO_Creatures : https://steamcommunity.com/sharedfiles/filedetails/?id=233103524
 
 DBo_ATV : https://steamcommunity.com/sharedfiles/filedetails/?id=2056895759
 
+Expansion Bundle : https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007
+
 CMZ Supercar : https://steamcommunity.com/sharedfiles/filedetails/?id=1993034717
 
-Deano's Discord - Great Source of Modding tutorials : https://discord.gg/vSDP3qz
-
-Expansion Discord : https://discord.gg/jvqw5yS
+Expansion Discord for all things Expansion : https://discord.gg/jvqw5yS
 
 Expansion Wiki : https://github.com/salutesh/DayZ-Expansion-Scripts/wiki
 
