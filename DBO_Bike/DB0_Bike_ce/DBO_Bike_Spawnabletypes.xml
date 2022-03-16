@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	 <type name="dbo_tt650">
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="dbo_yamXt">
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.50" />
+        </attachments>
+    </type>
+	<type name="dbo_yamXtb">
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="bike_shoe" chance="0.80" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.50" />
+        </attachments>
+    </type>
+</spawnabletypes>

@@ -1,0 +1,26 @@
+<VehicleParts> dbo_tt650		
+	SparkPlug						
+	CarBattery						
+	CarRadiator										
+	bike_shoe
+	bike_shoe
+	bike_shoe
+	bike_shoe
+
+<VehicleParts> dbo_yamXt		
+	SparkPlug						
+	CarBattery						
+	CarRadiator										
+	bike_shoe
+	bike_shoe
+	bike_shoe
+	bike_shoe	
+
+<VehicleParts> dbo_yamXtb	
+	SparkPlug						
+	CarBattery						
+	CarRadiator										
+	bike_shoe
+	bike_shoe
+	bike_shoe
+	bike_shoe	

@@ -1,0 +1,5 @@
+<Trader> Vehicles Trader
+	<Category> DBO Dirtbikes
+        dbo_tt650                                  , VNK, 20000 , 5000
+        dbo_yamXt                                  , VNK, 30000 , 7500
+        dbo_yamXtb                                 , VNK, 40000 , 10000

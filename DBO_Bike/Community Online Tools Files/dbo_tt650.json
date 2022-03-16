@@ -1,0 +1,13 @@
+{
+    "VehicleName": "dbo_tt650",
+    "DisplayName": "",
+    "Parts": [
+        "bike_shoe",
+        "bike_shoe",
+        "bike_shoe",
+        "bike_shoe",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}
