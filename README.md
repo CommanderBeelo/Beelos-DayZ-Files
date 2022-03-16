@@ -21,5 +21,10 @@ Expansion Wiki : https://github.com/salutesh/DayZ-Expansion-Scripts/wiki
 
 CMZ Supercar : https://steamcommunity.com/sharedfiles/filedetails/?id=1993034717
 
+CZLandroverDefender : https://steamcommunity.com/sharedfiles/filedetails/?id=2232576119
+
+CZVolkswagenGolf: https://steamcommunity.com/sharedfiles/filedetails/?id=2240464565
+
+CZNissanGTR2015 : https://steamcommunity.com/sharedfiles/filedetails/?id=2550633583
 
 The Horror at Namalsk (my server) : https://Discord.gg/hFGBHtyZJj
