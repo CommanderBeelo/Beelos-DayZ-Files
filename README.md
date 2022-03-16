@@ -13,6 +13,8 @@ DBO_Creatures : https://steamcommunity.com/sharedfiles/filedetails/?id=233103524
 
 DBo_ATV : https://steamcommunity.com/sharedfiles/filedetails/?id=2056895759
 
+DBO_Bike : https://steamcommunity.com/sharedfiles/filedetails/?id=1960889021
+
 Expansion Bundle : https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007
 
 Expansion Discord for all things Expansion : https://discord.gg/jvqw5yS
