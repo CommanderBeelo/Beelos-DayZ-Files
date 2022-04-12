@@ -1,6 +1,0 @@
-	<!--Adjust Loot you your liking -->
-	<cargo chance="1.00" name="bloodsuckerloot">
-        <item name="CombatKnife" chance="0.33" />
-        <item name="TacticalBaconCan" chance="0.33" />
-		<item name="AmmoBox_556x45Tracer_20Rnd" chance="0.33" />
-    </cargo>
