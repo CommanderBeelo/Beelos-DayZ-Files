@@ -1,4 +1,0 @@
-	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
-	<ce folder="DBO_Creatures_CE">
-		<file name="DBO_Creatures_Types.xml" type="types" />
-	</ce>
