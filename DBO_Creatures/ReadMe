@@ -1,7 +1,7 @@
-Install dbo_creature on your server. 
+Install dbo_creature on your server as you would any other mod.
 Copy DBO_Creature_CE folder to your mission folder. 
 Open cfgeconomycore, both the one included in the mod and the one in your mission folder.
-copy the code from the mod files and add it to the economycore in your mission folder. Save and close.
+copy the code from the mod files and add it to the cfgeconomycore in your mission folder. Save and close.
 Open cfgrandompresets, both the one in your mission folder and the one included in the mod.
 copy the code from the mod files and add it to the cfgrandompresets in the mission folder. Save and close.
 
