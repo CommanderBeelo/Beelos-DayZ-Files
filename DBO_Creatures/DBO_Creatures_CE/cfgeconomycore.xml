@@ -1,6 +1,0 @@
-	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
-	<ce folder="DBO_Creatures_CE">
-		<file name="DBOC_Types.xml" type="types" />
-		<file name="DBOC_Spawnabletypes.xml" type="spawnabletypes" />
-		<file name="DBOC_Events.xml" type="events" />
-	</ce>
