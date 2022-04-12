@@ -1,6 +1,0 @@
- <cargo chance="0.50" name="bloodsuckerloot">
-        <item name="NVGHeadstrap" chance="0.25" />
-        <item name="NVGoggles" chance="0.25" />
-        <item name="RGD5Grenade" chance="0.25" />
-        <item name="M67Grenade" chance="0.25" />
-    </cargo>
