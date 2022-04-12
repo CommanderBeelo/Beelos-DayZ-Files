@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="InfectedBloodsucker">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>101</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+             <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_normal"/>
+			 <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_normalR"/>
+             <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_medium"/>
+			 <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_mediumR"/>
+             <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_hard"/>
+			 <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_hardR"/>
+             <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_superhard"/>
+			 <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_superhardR"/>
+             <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_superweird"/>
+			 <child lootmax="0" lootmin="0" max="10" min="1" type="ZmbM_BloodSucker_Alien"/>
+        </children>
+    </event>
+</events>
+

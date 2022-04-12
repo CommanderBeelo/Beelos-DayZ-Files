@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>	
+	<type name="ZmbM_BloodSucker_normal">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_medium">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_hard">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_superhard">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_superweird">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+	<type name="ZmbM_BloodSucker_normalR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_mediumR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_hardR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_superhardR">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+    <type name="ZmbM_BloodSucker_Alien">
+        <cargo preset="bloodsuckerloot" />
+    </type>
+</spawnabletypes>	
