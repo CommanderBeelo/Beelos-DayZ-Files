@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="AnimalSpider">
+        <nominal>18</nominal>
+        <min>14</min>
+        <max>26</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_dbo_spider"/>
+            <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_dbo_spiderb"/>
+        </children>
+    </event>
+</events>
+

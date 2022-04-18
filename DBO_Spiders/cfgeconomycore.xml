@@ -1,0 +1,5 @@
+	<!-- Add this somewhere in cfgeconomycore.xml before </economycore> -->
+	<ce folder="DBO_Spiders_CE">
+		<file name="DBOS_Types.xml" type="types" />
+		<file name="DBOS_Events.xml" type="events" />
+	</ce>
