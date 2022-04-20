@@ -336,7 +336,7 @@
 				"MMG_assault_pack_erdl",
 				"MMG_assault_pack_olive",
 				"MMG_assault_pack_multicam",
-				"MMG_assault_pack_multicam_tropic",
+				"MMG_assault_pack_mct",
 				"MMG_assault_pack_multicamblack",
 				"MMG_assault_pack_tan",
 				"MMG_assault_pack_ucp"
@@ -581,7 +581,7 @@
             "SpawnAttachments": [],
             "Variants": [
 				"MMG_tactical_shirt_alpine",
-				"MMG_tactical_shirt_dark_woodland",
+				"MMG_tactical_shirt_dark_wl",
 				"MMG_tactical_shirt_erdl",
 				"MMG_tactical_shirt_green",
 				"MMG_tactical_shirt_multicam",
