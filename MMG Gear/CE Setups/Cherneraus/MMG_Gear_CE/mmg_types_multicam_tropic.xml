@@ -219,7 +219,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-    <type name="MMG_assault_pack_multicam_tropic">
+    <type name="MMG_assault_pack_mct">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
