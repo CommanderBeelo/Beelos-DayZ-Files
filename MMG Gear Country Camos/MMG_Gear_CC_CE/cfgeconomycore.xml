@@ -1,0 +1,6 @@
+	<ce folder="MMG_Gear_CC_CE">
+		<file name="mmg_types_germany.xml" type="types" />
+		<file name="mmg_types_norway.xml" type="types" />
+		<file name="mmg_types_sweden.xml" type="types" />
+		<file name="mmg_types_ukraine.xml" type="types" />
+	</ce>
