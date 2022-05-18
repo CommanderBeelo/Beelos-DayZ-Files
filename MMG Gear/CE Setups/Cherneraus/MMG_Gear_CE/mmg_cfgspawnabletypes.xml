@@ -1,5 +1,4 @@
-<!--cfgspawnabletypes.xml-->
-<!-- JPC-VEST -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <spawnabletypes>
     <type name="MMG_JPC_Vest_black">
 		<attachments chance="1.00">

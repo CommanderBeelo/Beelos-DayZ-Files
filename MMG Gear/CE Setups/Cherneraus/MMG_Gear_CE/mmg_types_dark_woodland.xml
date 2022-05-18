@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!--VESTS-->
-
 <types>
     <type name="MMG_JPC_Vest_dark_woodland">
         <nominal>5</nominal>

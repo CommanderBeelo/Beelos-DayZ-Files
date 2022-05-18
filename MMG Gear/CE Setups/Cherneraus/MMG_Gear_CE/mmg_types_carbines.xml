@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!--CARBINE-->
-
 <types>
     <type name="MMG_carbine_red">
         <nominal>5</nominal>
